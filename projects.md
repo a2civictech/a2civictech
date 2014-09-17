@@ -5,3 +5,11 @@ A list of projects that are being organized or managed or assisted in some way w
 * a2geeks (a non-profit with a board; current board president is Ryan Burns)
 * arborwiki (part of the non-profit Localwiki, led by Philip Neustrom and Marina Kukso)
 * healthinspection.info (project led by Scott Goci)
+
+In addition, the following public bodies are in scope for coverage:
+
+* a2gov (City of Ann Arbor)
+* a2council (Ann Arbor City Council)
+* a2dda (Ann Arbor Downtown Development Authority)
+* aaata (Ann Arbor Area Transportation Authority)
+* ewashtenaw (Washtenaw County Government)
