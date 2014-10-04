@@ -1,0 +1,10 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [46.54767,-87.40598,46.54756,-87.40513,46.54714,-87.40525,46.54728,-87.40593]
+  },
+  "properties": {
+    "name": "Cumming's Block E"
+  }
+}
