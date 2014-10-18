@@ -1,0 +1,14 @@
+foia-book-0-intro.md
+foia-book-1-sample.md
+foia-book-2-records.md
+foia-book-3-fees.md
+foia-book-4-delays.md
+foia-book-5-exemptions.md
+foia-book-6-appeals.md
+foia-book-7-rewrite.md
+foia-book-8-lawsuit.md
+foia-book-8x-obstruction.md
+foia-book-9-meetings.md
+foia-book-a-remedies.md
+foia-book-xa-resources.md
+foia-book-xb-exercises.md
