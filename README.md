@@ -3,6 +3,8 @@ a2civictech
 
 The Ann Arbor Civic Technology Meetup meets on the 4th Monday of each month in Ann Arbor, MI.
 
+The 4th Monday of May 2015 is Memorial Day.
+
 The April 2015 meeting was Monday, April 25, 2015 at Pizza Pino, 221 W Liberty St, Ann Arbor, MI 48104 at 7:00 p.m.
 Please RSVP at http://www.meetup.com/a2civictech/events/221361766/
 
