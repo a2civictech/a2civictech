@@ -1,2 +1,3 @@
-county,agency,name,organization,web,email,phone
+county,agency,name,title,web,email,phone
 washtenaw,City of Ann Arbor,Jackie Beaudry,Ann Arbor City Clerk,http://a2gov.org,cityclerk@a2gov.org,
+washtenaw,Washtenaw County,Judy Kramer,FOIA Coordinator,http://ewashtenaw.org,kramerj@ewashtenaw.org,734-222-6735
