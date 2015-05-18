@@ -232,3 +232,5 @@ amount per page. One request I made came back with a fee marked as over
 $100.00. It turned out that I had specified on the request that I was
 unwilling to pay more than $10.00, and also that I was being charged
 $0.50 per page instead of $0.05 per page for photocopies.
+
+## Enhanced Access to Public Records Act (Act 462 of 1996)
