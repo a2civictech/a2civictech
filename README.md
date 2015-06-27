@@ -1,6 +1,8 @@
 a2civictech
 ===========
 
+[![Join the chat at https://gitter.im/a2civictech/a2civictech](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/a2civictech/a2civictech?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The Ann Arbor Civic Technology Meetup meets on the 4th Monday of each month in Ann Arbor, MI.
 
 The 4th Monday of May 2015 is Memorial Day.
