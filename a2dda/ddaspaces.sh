@@ -4,7 +4,7 @@
 
 # initial version from @vielmetti provides a total count of spaces free systemwide
 
-CURL=/usr/bin/perl
+CURL=/usr/bin/curl
 JQ=/usr/local/bin/jq
 COUNT=http://www.a2dda.org/map/AADDACount.json
 
