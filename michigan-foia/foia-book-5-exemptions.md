@@ -28,7 +28,8 @@ was inaccurate.
 
 MCL 15.243 provides a list of exemptions from disclosure; they are
 listed here in alphabetical order by common name, with notes to the
-subsection of the law that applies. References to 
+subsection of the law that applies. References to subsections
+are noted here.
 
 ## Absentee ballots
 
@@ -138,6 +139,15 @@ In practice, if you are asking for any information about students
 from a public university, you are likely to bump up against FERPA
 at some point.
 
+## Governor's office
+
+The Governor of the State of Michigan, and all of the Governor's
+offices, are exempt from FOIA requests.
+
+## Judiciary
+
+The judicial branch of the State of Michigan is exempt from FOIA.
+
 ## Law enforcement communication codes 13(1)(n)
 
 10-4 good buddy! A directory of codes used by law enforcement to
@@ -207,8 +217,6 @@ examine national security exceptions to FOIA laws.
 In Michigan, these include [MCL XXX(y)], which exempts a wide variety
 of critical infrastructure information, including but not limited to
 details of dams, gas pipelines, and [XXX].
-
-
 
 ## Test questions 13(1)(k)
 
